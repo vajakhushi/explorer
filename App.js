@@ -8,7 +8,6 @@ function App() {
 
       <div className="App">
         <Navbar />
-      </div>
       
         <div className='col-md-12'>
 
@@ -22,6 +21,7 @@ function App() {
           <div class="col-md-4" >
             <Card />
           </div>
+      </div>
         </div>
         </div>
 
